@@ -1,0 +1,11 @@
+C:\Users\Mozzey\GrandCircus\Labs\Lab4\TablesSquaresCubes\bin\Debug\netcoreapp2.1\TablesSquaresCubes.deps.json
+C:\Users\Mozzey\GrandCircus\Labs\Lab4\TablesSquaresCubes\bin\Debug\netcoreapp2.1\TablesSquaresCubes.runtimeconfig.json
+C:\Users\Mozzey\GrandCircus\Labs\Lab4\TablesSquaresCubes\bin\Debug\netcoreapp2.1\TablesSquaresCubes.runtimeconfig.dev.json
+C:\Users\Mozzey\GrandCircus\Labs\Lab4\TablesSquaresCubes\bin\Debug\netcoreapp2.1\TablesSquaresCubes.dll
+C:\Users\Mozzey\GrandCircus\Labs\Lab4\TablesSquaresCubes\bin\Debug\netcoreapp2.1\TablesSquaresCubes.pdb
+C:\Users\Mozzey\GrandCircus\Labs\Lab4\TablesSquaresCubes\obj\Debug\netcoreapp2.1\TablesSquaresCubes.csprojAssemblyReference.cache
+C:\Users\Mozzey\GrandCircus\Labs\Lab4\TablesSquaresCubes\obj\Debug\netcoreapp2.1\TablesSquaresCubes.csproj.CoreCompileInputs.cache
+C:\Users\Mozzey\GrandCircus\Labs\Lab4\TablesSquaresCubes\obj\Debug\netcoreapp2.1\TablesSquaresCubes.AssemblyInfoInputs.cache
+C:\Users\Mozzey\GrandCircus\Labs\Lab4\TablesSquaresCubes\obj\Debug\netcoreapp2.1\TablesSquaresCubes.AssemblyInfo.cs
+C:\Users\Mozzey\GrandCircus\Labs\Lab4\TablesSquaresCubes\obj\Debug\netcoreapp2.1\TablesSquaresCubes.dll
+C:\Users\Mozzey\GrandCircus\Labs\Lab4\TablesSquaresCubes\obj\Debug\netcoreapp2.1\TablesSquaresCubes.pdb
